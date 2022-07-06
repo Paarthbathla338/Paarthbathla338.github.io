@@ -289,16 +289,16 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 95%;
+  width: 100%;
 }
 .skills__css{
-  width: 85%;
+  width: 100%;
 }
 .skills__js{
-  width: 65%;
+  width: 80%;
 }
 .skills__ux{
-  width: 85%;
+  width: 65%;
 }
 .skills__img{
   border-radius: .5rem;
@@ -316,6 +316,7 @@ img{
 .work__img img{
   transition: 1s;
   cursor: pointer;
+  height: 100%;
 }
 .work__img img:hover{
   transform: scale(1.1);
