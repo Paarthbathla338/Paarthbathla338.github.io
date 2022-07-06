@@ -415,8 +415,9 @@ img{
     margin-right: var(--mb-4);
   }
   .home__img{
-    width: 430px;
-    bottom: 2%;
+    width: 300px;
+    bottom: 4%;
+    height: 80%;
   }
 
   .about__container, .skills__container{
